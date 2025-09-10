@@ -3,9 +3,8 @@ import Link from "next/link";
 export default function Footer() {
 
     const socialLinks = [
-        { name: "LinkedIn", href: "#", target: "_blank" },
-        { name: "Instagram", href: "#", target: "_blank" },
-        { name: "Facebook", href: "#", target: "_blank" },
+        { name: "LinkedIn", href: "https://www.linkedin.com/company/intra-argentina", target: "_blank" },
+        { name: "Instagram", href: "https://www.instagram.com/intrasoftware__?igsh=MXY0Y2h0cmR3eTdhaw==", target: "_blank" },
     ];
 
     return (
