@@ -13,8 +13,8 @@ const BotonAnimado: React.FC<BotonAnimadoProps> = ({ texto, url }) => {
             href={url}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block px-8 py-4 text-lg font-semibold text-white bg-secondary rounded-full shadow-lg bg-black hover:bg-red-200"
-            whileHover={{ scale: 1.05 }}
+            className="inline-block px-8 py-4 text-lg font-semibold text-white rounded-full shadow-lg bg-black hover:bg-blue-300"
+            whileHover={{ scale: 1.05 }}red-200
             whileTap={{ scale: 0.95 }}
             transition={{ duration: 0.2 }}
         >
