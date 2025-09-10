@@ -27,7 +27,7 @@ export default function HeroSection() {
             </div>
 
             <motion.h1
-                className="text-5xl md:text-7xl font-extrabold text-secondary mb-4 relative z-10"
+                className="text-5xl md:text-7xl font-extrabold text-black mb-4 relative z-10"
                 variants={itemVariants}
             >
                 Tus Próximas Vacaciones te Esperan
