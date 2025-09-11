@@ -22,17 +22,17 @@ export default function FeaturesSection() {
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <TarjetaCaracteristica
-                    imagenSrc="https://placehold.co/300x300/F5DFC1/8FAD9C"
+                    imagenSrc="./images/img1.png"
                     titulo="Diseño Intuitivo"
                     descripcion="Navega con facilidad y encuentra lo que buscas en segundos. Una experiencia de usuario diseñada para vos."
                 />
                 <TarjetaCaracteristica
-                    imagenSrc="https://placehold.co/300x300/8FAD9C/FAF2E5"
+                    imagenSrc="images/img2.png"
                     titulo="Variedad de Propiedades"
                     descripcion="Desde apartamentos modernos hasta casas con jardín. Un catálogo diverso que se ajusta a tus necesidades."
                 />
                 <TarjetaCaracteristica
-                    imagenSrc="https://placehold.co/300x300/C6C8BD/333"
+                    imagenSrc="images/img3.png"
                     titulo="Contacto Directo"
                     descripcion="Comunícate sin intermediarios. Conecta directamente con los propietarios y resolvé tus dudas."
                 />
